@@ -8,6 +8,6 @@
 */
 export const environment = {
   production: true,
-  baseUrl: 'https://api.domain.com/public/api/',
-  imageUrl: 'https://api.domain.com/public/storage/images/',
+  baseUrl: 'https://api-production-17f3.up.railway.app/api/',
+  imageUrl: 'https://api-production-17f3.up.railway.app/storage/images/',
 };
